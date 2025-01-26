@@ -18,7 +18,7 @@ This project provides a German translation for the **Better Decrees** mod for *V
 
 ## Links
 - **[Better Decrees Mod on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2895956555)**
-- **[German Translation Mod on GitHub]([https://github.com/yourusername/better-decrees-german-translation](https://github.com/KushGene/better-decrees-german))**
+- **[German Translation Mod on GitHub](https://github.com/KushGene/better-decrees-german/releases/tag/v1.0)**
 
 ## Contribution
 If you'd like to contribute to this translation project, feel free to open an issue or submit a pull request. Your help is greatly appreciated!
