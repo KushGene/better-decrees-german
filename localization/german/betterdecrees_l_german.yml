@@ -1,0 +1,61 @@
+﻿l_german:
+
+decree_road_maintenance:0 "Effiziente Verwaltung"
+decree_road_maintenance_desc:0 "Fördern Sie eine effiziente Steuererhebung und staatliche Verwaltung"
+decree_greener_grass_campaign:0 "Grüneres Gras Kampagne"
+decree_greener_grass_campaign_desc:0 "Bewerben Sie den Staat als einen wünschenswerten Ort für Migration"
+decree_promote_social_mobility:0 "Innovation fördern"
+decree_promote_social_mobility_desc:0 "Ermutigen Sie die Bevölkerung, nach höheren Berufsqualifikationen zu streben und neue Technologien sowie künstlerische Bestrebungen zu entwickeln"
+decree_promote_national_values:0 "Werte fördern"
+decree_promote_national_values_desc:0 "Erhöhen Sie die kulturelle Assimilation und die religiösen Konversionsraten durch eine Propagandakampagne"
+decree_encourage_construction:0 "Bau fördern"
+decree_encourage_construction_desc:0 "Erhöhen Sie den Durchsatz im Bausektor"
+decree_emergency_relief:0 "Notfallhilfe"
+decree_emergency_relief_desc:0 "Fördern Sie wohltätige Unterstützung und Fürsorge für die Unglücklichsten des Staates"
+bd_any_starving_pops_tt:0 "Irgendein [concept_pop] befindet sich in [concept_starvation]"
+decree_encourage_manufacturing_industry:0 "Fertigung fördern"
+decree_encourage_manufacturing_industry_desc:0 "Erhöhen Sie den Durchsatz im Fertigungssektor"
+decree_encourage_agricultural_industry:0 "Landwirtschaft fördern"
+decree_encourage_agricultural_industry_desc:0 "Erhöhen Sie den Durchsatz im landwirtschaftlichen und Plantagensektor"
+decree_encourage_resource_industry:0 "Ressourcen fördern"
+decree_encourage_resource_industry_desc:0 "Erhöhen Sie den Durchsatz im Ressourcensektor"
+decree_encourage_urban_services:0 "Städtische Dienstleistungen fördern"
+decree_encourage_urban_services_desc:0 "Erhöhen Sie den Durchsatz städtischer Dienstleistungen. Dazu gehören Handel, städtische Zentren, Häfen, Schienen, Denkmäler, Kanäle und Kraftwerke"
+decree_enlistment_efforts:1 "Militärische Ausbildung"
+decree_enlistment_efforts_desc:1 "Anreize für die Rekrutierung und Ausbildung lokaler Truppen durch finanzielle Anreize und hochwertige Ausbildung, um eine Elite-Militäreinheit zu schaffen"
+decree_violent_suppression:0 "Gewaltsame Unterdrückung"
+decree_violent_suppression_desc:0 "Verwenden Sie die Nationalgarde des Landes, um die wütenden Massen zu kontrollieren"
+decree_promote_health:0 "Öffentliche Gesundheitsprogramme"
+decree_promote_health_desc:0 "Starten Sie öffentliche Gesundheitsprogramme, die sich an Familien und Gebrechliche richten"
+decree_worker_exploitation:0 "Arbeiterausbeutung"
+decree_worker_exploitation_desc:0 "Exploitieren Sie lokale Arbeiter, um die Produktivität zu steigern"
+decree_penal_colony:0 "Strafkolonietransfers"
+decree_penal_colony_desc:0 "Schicken Sie Unruhestifter und Unzufriedene ab, um unsere wachsenden Kolonien zu bevölkern"
+
+decree_violent_hostility:0 "Gewalttätige Feindseligkeit fördern"
+decree_violent_hostility_desc:0 "Geben Sie öffentliche Zustimmung und Unterstützung für Initiativen, die darauf abzielen, Personengruppen auszurotten, die als nicht zugehörig angesehen werden."
+violent_hostility_decree_eligble_tt:0 "Eine [concept_culture] ist vorhanden, die sich nicht in ihrem [concept_homeland]#b  und#! nicht zu unseren [concept_primary_cultures] gehört."
+
+decree_conservation:0 "Landschutz"
+decree_conservation_desc:0 "Überwachen Sie den verantwortungsvollen Umgang mit Ressourcen, indem Sie umweltschädliche Praktiken in der Industrie minimieren und Land in Nationalparks zurückgewinnen."
+#Die Regierung sollte dafür verantwortlich sein, die Ressourcen für zukünftige Generationen zu erhalten
+#vom Eroberer der Natur zum Bürger der Natur
+#vielleicht ein Ereignis, das Ackerland schafft? Verbindung zu Nationalparks
+
+decree_disenfranchise:0 "Bürgerliche Unterdrückung"
+decree_disenfranchise_desc:0 "Unterdrücken Sie politisches Engagement und Einfluss."
+
+#decree_red_tape:0 "Bürokratie abbauen" #Änderung
+#decree_red_tape:0 "Mit der Autorität des Staates soll der Staat weniger Autorität über Unternehmen haben."
+
+building_group_bg_monuments_throughput_add:0 "Denkmäler [concept_throughput]"
+building_group_bg_canals_throughput_add:0 "Kanäle [concept_throughput]"
+
+building_group_bg_monuments_throughput_add_desc:0 "Ein Bonus oder Malus für den Input und Output von Denkmälern"
+building_group_bg_canals_throughput_add_desc:0 "Ein Bonus oder Malus für den Input und Output von Kanälen"
+
+state_radicals_from_sol_change_mult:0 "$concept_radicals$ durch [concept_sol] Änderungen"
+state_radicals_from_sol_change_mult_desc:0 "Ein Bonus oder Malus darauf, wie viele [Concept('concept_pop', '$concept_pops$')] durch Änderungen im [concept_sol] zu [concept_radical] werden"
+
+state_loyalists_from_sol_change_mult:0 "$concept_loyalists$ durch [concept_sol] Änderungen"
+state_loyalists_from_sol_change_mult_desc:0 "Ein Bonus oder Malus darauf, wie viele [Concept('concept_pop', '$concept_pops$')] durch Änderungen im [concept_sol] zu [concept_loyalist] werden"
